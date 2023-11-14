@@ -1,4 +1,4 @@
-# MortuaryTransporter Resume
+# Mortuary Transporter Resume
 
 ## Mortuary Transporter resume template (English): 
 * [mortuarytransport_resume_sample_english.docx](https://github.com/ryansplan/mortuarytransporter/files/13352436/mortuarytransport_resume_sample_english.docx)
