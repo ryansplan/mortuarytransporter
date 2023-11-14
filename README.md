@@ -5,4 +5,5 @@
   
 
 ## Plantilla de currículum para Transportista Mortuorio:
-* [muestra_de_curriculum_para_transporte_mortuorio_español.docx](https://github.com/ryansplan/mortuarytransporter/files/13352022/muestra_de_curriculum_para_transporte_mortuorio_espanol.docx)
+* [muestra_de_curriculum_para_transporte_mortuorio_español.docx](https://github.com/ryansplan/mortuarytransporter/files/13353607/muestra_de_curriculum_para_transporte_mortuorio_espanol.docx)
+
