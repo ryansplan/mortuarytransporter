@@ -9,4 +9,4 @@
 
 
 ## 殡仪运输工简历模板
-* [殡仪运输简历样本_简体中文.docx](https://github.com/ryansplan/mortuarytransporter/files/13354007/_.docx)
+* [殡仪运输简历样本_简体中文.docx](https://github.com/ryansplan/mortuarytransporter/files/13536828/_.docx)
