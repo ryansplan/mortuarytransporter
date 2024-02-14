@@ -13,4 +13,4 @@
 * [殡仪运输简历样本_简体中文.docx](https://github.com/ryansplan/mortuarytransporter/files/13626169/mortuary_transporter_resume_sample_simplified_chinese.docx)
 
 ## Резюме Перевозчика Морга (на русском языке): 
-* [Резюме Перевозчика Морга (на русском языке).docx](https://github.com/ryansplan/mortuarytransporter/files/14288674/default.docx)
+* [Резюме Перевозчика Морга (на русском языке).docx](https://github.com/ryansplan/mortuarytransporter/files/14288686/mortuarytransporter_resume_russian.docx)
