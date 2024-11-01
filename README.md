@@ -9,9 +9,8 @@
 ## Plantilla de currículum para Transportista Mortuorio:
 * [muestra_de_curriculum_para_transporte_mortuorio_espanol.docx](https://github.com/ryansplan/mortuarytransporter/files/13626158/muestra_de_curriculum_para_transporte_mortuorio_espanol.docx)
 
-## Bestattungstransport Lebenslauf Muster:
-
-
+## Bestattungstransport Lebenslauf Muster (Deutsch):
+* [mortuary_transport_resume_sample_german.docx](https://github.com/user-attachments/files/17604166/mortuary_transport_resume_sample_german.docx)
 
 ## 殡仪运输工简历模板
 * [殡仪运输简历样本_简体中文.docx](https://github.com/ryansplan/mortuarytransporter/files/13626169/mortuary_transporter_resume_sample_simplified_chinese.docx)
