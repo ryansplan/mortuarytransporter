@@ -12,7 +12,11 @@
 ## Bestattungstransport Lebenslauf Muster (Deutsch):
 * [mortuary_transport_resume_sample_german.docx](https://github.com/user-attachments/files/17619783/mortuary_transport_resume_sample_german.docx)
 
+## 「日本語での遺体搬送用履歴書サンプル」:
+* [mortuarytransport_resume_sample_japanese.docx](https://github.com/user-attachments/files/17685260/mortuarytransport_resume_sample_japanese.docx)
+
 ## 殡仪运输工简历模板
+
 * [殡仪运输简历样本_简体中文.docx](https://github.com/ryansplan/mortuarytransporter/files/13626169/mortuary_transporter_resume_sample_simplified_chinese.docx)
 
 ## Зразок резюме для транспортування покійних українською мовою
