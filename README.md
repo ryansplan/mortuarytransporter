@@ -1,4 +1,4 @@
-# Mortuary Transporter Resume
+[Mortuary_Transport_Resume_Haitian_Creole.docx](https://github.com/user-attachments/files/17787402/Mortuary_Transport_Resume_Haitian_Creole.docx)# Mortuary Transporter Resume
 
 ## Mortuary Transporter resume template (English): 
 * [mortuarytransport_resume_sample_english.docx](https://github.com/ryansplan/mortuarytransporter/files/13352436/mortuarytransport_resume_sample_english.docx)
@@ -11,6 +11,9 @@
 
 ## Bestattungstransport Lebenslauf Muster (Deutsch):
 * [mortuary_transport_resume_sample_german.docx](https://github.com/user-attachments/files/17619783/mortuary_transport_resume_sample_german.docx)
+
+## Modèl Rezime pou Transpò Mòtyè:
+* [Mortuary_Transport_Resume_Haitian_Creole.docx](https://github.com/user-attachments/files/17787404/Mortuary_Transport_Resume_Haitian_Creole.docx)
 
 ## 「日本語での遺体搬送用履歴書サンプル」:
 * [mortuarytransport_resume_sample_japanese.docx](https://github.com/user-attachments/files/17685260/mortuarytransport_resume_sample_japanese.docx)
